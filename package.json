@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "E-Commerce fulstack app built with MERN stack",
   "main": "backend/server.js",
+  "type": "module",
   "scripts": {
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js"
